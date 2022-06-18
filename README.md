@@ -35,7 +35,7 @@ github:https://github.com/AmbitionsXXXV
 
 *   了解：微信小程序开发，原生移动端兼容
 
-##爱好/特长
+## 爱好/特长
 
 *   100米二级运动员⚡
 
