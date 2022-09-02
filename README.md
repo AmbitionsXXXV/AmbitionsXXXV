@@ -35,8 +35,8 @@ github:https://github.com/AmbitionsXXXV
 
 ##  项目
 ### 后台管理系统
-`vue3.2` `echarts` `element-plus` `i18n` 
-(后台管理系统，可对用户权限进行管理)
+`vue3.2` `echarts` `element-plus` `i18n`  
+(后台管理系统，可对用户权限进行管理)  
 负责前端构建
 *  使用了husky确定提交风格
 
@@ -50,8 +50,8 @@ github:https://github.com/AmbitionsXXXV
 *  解决方法：对应每个界面创建相应的路由表，然后登陆成功后，对满足条件的路由进行注册
 
 ###  通用前中台项目
-`vue3.2` `TailwindCSS` `gsap` `vuex`
-(通用前中台项目，构建多个基础可供未来重构的组件)
+`vue3.2` `TailwindCSS` `gsap` `vuex`  
+(通用前中台项目，构建多个基础可供未来重构的组件)  
 负责前端构建
 *  使用TailwindCSS 构建项目整体样式
 
