@@ -4,9 +4,6 @@
 
 计算机/软件工程
 
-四川大学锦江学院/2023年毕业
-
-
 github:https://github.com/AmbitionsXXXV
 
 邮箱:712298233\@qq.com、yilonglei790@gmail.com
