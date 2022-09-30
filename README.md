@@ -20,7 +20,7 @@ github:https://github.com/AmbitionsXXXV
 
 *   掌握：JavaScript/TS 和 ES6 以上的语法和 api 使用，了解原型链，闭包，作用域，this 指向，promise 等
 
-*   掌握：vue2/3 框架，以及常用插件vuex，pinia，vue-router，echarts，axios，lodash，dayjs，vant-ui等
+*   掌握：vue2/3 框架，以及常用插件vuex，pinia，vue-router，echarts，axios，lodash，dayjs，vant-ui等，阅读过部分Vue源码，了解Vue2和Vue3响应式的原理，虚拟DOM和Diff算法
 
 *   熟悉：React、Redux等前端框架和库，对 React 有较为深入理解。有Ant Design、Element UI、Element Plus、Vant、等组件库的开发经验。 
 
