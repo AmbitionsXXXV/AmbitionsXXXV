@@ -12,7 +12,7 @@ github:https://github.com/AmbitionsXXXV
 
 ## 介绍
 
-于2021年开始接触前端，喜欢编码，有Geek精神，对代码有洁癖，喜欢接触前沿技术，爱折腾，正在学习红宝书中。
+于2020年开始接触前端，喜欢编码，有Geek精神，对代码有洁癖，喜欢接触前沿技术，爱折腾，正在学习红宝书中。
 
 使用JS、TS封装axios使用一些常用方法
 
@@ -33,7 +33,7 @@ github:https://github.com/AmbitionsXXXV
 *   了解：webpack|rollup|vite 打包工具使用和配置，以及常用 loader 和 plugin 使用
 
 ##  项目
-### 后台管理系统
+### 哦哦啊后台管理系统
 `vue3.2` `echarts` `element-plus` `i18n` `TypeScript` `pinia`   
 (后台管理系统，可对用户权限进行管理)  
 负责前端构建
@@ -48,7 +48,7 @@ github:https://github.com/AmbitionsXXXV
 
 *  解决方法：对应每个界面创建相应的路由表，然后登陆成功后，对满足条件的路由进行注册
 
-###  通用前中台项目
+###  哦哦啊前中台项目
 `vue3.2` `TailwindCSS` `gsap` `vuex`  
 (通用前中台项目，构建多个基础可供未来重构的组件)  
 负责前端构建
