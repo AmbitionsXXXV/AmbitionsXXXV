@@ -34,7 +34,7 @@ github:https://github.com/AmbitionsXXXV
 
 ##  项目
 ### 后台管理系统
-`vue3.2` `echarts` `element-plus` `i18n`  
+`vue3.2` `echarts` `element-plus` `i18n` `TypeScript` `pinia` 
 (后台管理系统，可对用户权限进行管理)  
 负责前端构建
 *  使用了husky确定提交风格
