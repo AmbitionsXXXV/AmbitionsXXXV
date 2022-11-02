@@ -33,6 +33,17 @@ github:https://github.com/AmbitionsXXXV
 *   了解：webpack|rollup|vite 打包工具使用和配置，以及常用 loader 和 plugin 使用
 
 ##  项目
+### 基于Ts和React18重写网易云音乐
+`React18` `@redux/toolkit` `AntDesign` `TypeScript`  
+主要功能：
+* 基于TpeyScript二次封装axios请求库
+
+* 抽取类似单元音乐模块、头部导航栏等十数个通用组件
+
+* 使用@reduxjs/toolkit替换redux，优化代码结构
+
+* 计算歌曲播放进度，实现同步进度条
+
 ### 哦哦啊后台管理系统
 `vue3.2` `echarts` `element-plus` `i18n` `TypeScript` `pinia`   
 (后台管理系统，可对用户权限进行管理)  
@@ -48,7 +59,7 @@ github:https://github.com/AmbitionsXXXV
 
 *  解决方法：对应每个界面创建相应的路由表，然后登陆成功后，对满足条件的路由进行注册
 
-###  哦哦啊前中台项目
+###  哦哦啊图库项目
 `vue3.2` `TailwindCSS` `gsap` `vuex`  
 (通用前中台项目，构建多个基础可供未来重构的组件)  
 负责前端构建
