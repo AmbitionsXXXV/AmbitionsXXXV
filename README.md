@@ -8,8 +8,6 @@ github:https://github.com/AmbitionsXXXV
 
 邮箱:712298233\@qq.com、yilonglei790@gmail.com
 
-电话:13550573657
-
 ## 介绍
 
 于2020年开始接触前端，喜欢编码，有Geek精神，对代码有洁癖，喜欢接触前沿技术，爱折腾，正在学习红宝书中。
