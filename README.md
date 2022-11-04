@@ -76,6 +76,8 @@ github:https://github.com/AmbitionsXXXV
 
 *   日语、英语四级⚡
 
+*   摇滚/乐队: ONR OK ROCK、あいみょん！！！　　おんがくはさいこう！！
+
 <!--
 **AmbitionsXXXV/AmbitionsXXXV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
