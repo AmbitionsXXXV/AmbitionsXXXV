@@ -32,13 +32,13 @@ github:https://github.com/AmbitionsXXXV
 
 ##  项目
 ### 基于Ts和React18重写网易云音乐
-`React18` `@redux/toolkit` `AntDesign` `TypeScript`  
+`React18` `@redux/toolkit` `AntDesign` `TypeScript` `classnames` `react-router`
 主要功能：
-* 基于TpeyScript二次封装axios请求库
+* 基于TypeScript二次封装axios请求库
 
 * 抽取类似单元音乐模块、头部导航栏等十数个通用组件
 
-* 使用@reduxjs/toolkit替换redux，优化代码结构
+* 使用@reduxjs/toolkit替换传统redux创建store，优化代码结构
 
 * 计算歌曲播放进度，实现同步进度条
 
@@ -58,7 +58,7 @@ github:https://github.com/AmbitionsXXXV
 *  解决方法：对应每个界面创建相应的路由表，然后登陆成功后，对满足条件的路由进行注册
 
 ###  哦哦啊图库项目
-`vue3.2` `TailwindCSS` `gsap` `vuex`  
+`vue3.2` `TailwindCSS` `gsap` `vuex`  `vue-router`
 (通用前中台项目，构建多个基础可供未来重构的组件)  
 负责前端构建
 *  使用TailwindCSS 构建项目整体样式
