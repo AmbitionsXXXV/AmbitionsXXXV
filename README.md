@@ -16,17 +16,21 @@ github:https://github.com/AmbitionsXXXV
 
 ## 技能
 
-*   掌握：JavaScript/TS 和 ES6 以上的语法和 api 使用，了解原型链，闭包，作用域，this 指向，promise 等
+*   掌握：JavaScript/TypeScript 和 ES6 以上的语法和 api 使用，了解原型链，闭包，作用域，this 指向，promise 等
 
-*   掌握：vue2/3 框架，以及常用相关库vuex，pinia，vue-router，echarts，axios，lodash，dayjs，vant-ui等，阅读过部分Vue源码，了解Vue2和Vue3响应式的原理，虚拟DOM和Diff算法
+*   掌握：vue2/3 框架，以及常用相关库vuex，pinia，vue-router，echarts，axios，lodash，dayjs，vant-ui等，阅读过部分Vue源码，了解Vue2和Vue3响应式的原理、虚拟DOM和Diff算法
 
 *   掌握：React、Redux等前端框架和库，对 React 有较为深入理解。有Ant Design等组件库的开发经验。 
+
+*   熟悉：对于Vue和React的基于对应Nuxt、Next框架的SSR渲染开发流程   
 
 *   熟悉：计算机网络和基本的数据结构以及协同工具Git常用指令
    
 *   熟悉：nodejs(express,koa2)具有一定的服务器开发能力，了解部分基于nestjs的服务器开发
 
 *   熟悉：webpack|rollup|vite 打包工具使用和配置，以及webpack常用 loader 和 plugin 使用和简单的创建个人loader、plugin
+
+*   熟悉：微信小程序原生开发以及云开发流程
 
 *   了解：基于uni-app和taro对于跨平台应用的开发
 
