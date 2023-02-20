@@ -1,6 +1,6 @@
-# WEB前端👋
+# Front-end Coder👋
 
-雷一龙/男/2001-7
+男/2001-7
 
 计算机/软件工程
 
@@ -37,6 +37,15 @@ github:https://github.com/AmbitionsXXXV
 *   了解：Nginx常用配置
 
 ##  项目
+### 个人博客网站
+`Nextjs13` `TailwindCSS` `giscus` `pliny` `pliny-cli` `mdx`
+主要功能: 
+* 博客主要使用MDX进行编写 鉴于MDX能够书写jsx/tsx有更好的定制性 所以对比MD选用MDX
+
+* 使用TailwindCSS定制主题 并加入黑白主题
+
+* 基于Nextjs封装SEO组建 并结合Nextjs提供的静态页面组建 提高页面渲染效率以及SEO能力
+
 ### 基于Ts和React18重写网易云音乐
 `React18` `@redux/toolkit` `AntDesign` `TypeScript` `classnames` `react-router`
 主要功能：
