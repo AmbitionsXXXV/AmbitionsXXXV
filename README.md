@@ -38,7 +38,7 @@ github:https://github.com/AmbitionsXXXV
 
 ##  项目
 ### 个人博客网站
-`Nextjs13` `TailwindCSS` `giscus` `pliny` `pliny-cli` `mdx`
+`Nextjs13` `TailwindCSS` `giscus` `pliny` `pliny-cli` `mdx`   
 主要功能: 
 * 博客主要使用MDX进行编写 鉴于MDX能够书写jsx/tsx有更好的定制性 所以对比MD选用MDX
 
@@ -47,7 +47,7 @@ github:https://github.com/AmbitionsXXXV
 * 基于Nextjs封装SEO组建 并结合Nextjs提供的静态页面组建 提高页面渲染效率以及SEO能力
 
 ### 基于Ts和React18重写网易云音乐
-`React18` `@redux/toolkit` `AntDesign` `TypeScript` `classnames` `react-router`
+`React18` `@redux/toolkit` `AntDesign` `TypeScript` `classnames` `react-router`  
 主要功能：
 * 基于TypeScript二次封装axios请求库
 
@@ -58,14 +58,14 @@ github:https://github.com/AmbitionsXXXV
 * 计算歌曲播放进度，实现同步进度条
 
 ### 哦哦啊后台管理系统
-`vue3.2` `echarts` `element-plus` `i18n` `TypeScript` `pinia`   
+`vue3.2` `echarts` `element-plus` `i18n` `TypeScript` `pinia`     
 (后台管理系统，可对用户权限进行管理)  
 负责前端构建
 *  使用了husky确定提交风格
 
 *  使用eslint+prettier确定代码规范
 
-*  对所有外部引用的库分别进行封装，或者统一出口，确保对库的低复用，方便后续对项目进行重建
+*  对所有外部引用的库分别进行封装，或者统一出口，确保对库的低复用，方便后续对项目进行重建  
 
 项目难点
 *  权限问题不同的人对应不同权限，及有些页面是否可以访问
@@ -73,17 +73,17 @@ github:https://github.com/AmbitionsXXXV
 *  解决方法：对应每个界面创建相应的路由表，然后登陆成功后，对满足条件的路由进行注册
 
 ###  哦哦啊图库项目
-`vue3.2` `TailwindCSS` `gsap` `vuex`  `vue-router`
+`vue3.2` `TailwindCSS` `gsap` `vuex`  `vue-router`  
 (通用前中台项目，构建多个基础可供未来重构的组件)  
-负责前端构建
+负责前端构建  
 *  使用TailwindCSS 构建项目整体样式
 
 *  对接第三方登录(QQ、微信),以及可调出支付宝支付
-
+  
 项目难点
 *  图片请求过多
 
-*  对主页图片、以及接收数据和组件进行懒加载，实现简易的防抖
+*  对主页图片、以及接收数据和组件进行懒加载，实现简易的防抖  
 
 ## 爱好/特长
 
