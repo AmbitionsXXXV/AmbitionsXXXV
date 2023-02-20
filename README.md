@@ -24,17 +24,15 @@ github:https://github.com/AmbitionsXXXV
 
 *   掌握：React、Redux、NextJS等前端框架和库，对 React 有较为深入理解。有Ant Design等组件库的开发经验。 
 
-*   熟悉：对于Vue和React的基于对应Nuxt、Next框架的SSR渲染开发流程   
+*   熟悉：基于Nuxt3的Vuejs的SSR渲染开发流程   
 
 *   熟悉：计算机网络和基本的数据结构以及协同工具Git常用指令
    
-*   熟悉：nodejs(express,koa2)具有一定的服务器开发能力，了解部分基于nestjs的服务器开发
+*   熟悉：nodejs(express,koa2)具有一定的服务器开发能力，了解基于nestjs的服务器开发
 
-*   熟悉：webpack|rollup|vite 打包工具使用和配置，以及webpack常用 loader 和 plugin 使用和简单的创建个人loader、plugin
+*   熟悉：webpack|rollup | gulp |vite 打包工具使用和配置，以及webpack常用 loader 和 plugin 使用和简单的创建个人loader、plugin
 
-*   熟悉：微信小程序原生开发以及云开发流程
-
-*   了解：基于uni-app和taro对于跨平台应用的开发
+*   了解：基于React Native、uni-app和taro对于跨平台应用的开发
 
 *   了解：Nginx常用配置
 
