@@ -28,19 +28,19 @@ github:https://github.com/AmbitionsXXXV
 
 *   熟悉：计算机网络和基本的数据结构以及协同工具Git常用指令
    
-*   熟悉：nodejs(express,koa2)具有一定的服务器开发能力，了解基于nestjs的服务器开发
+*   熟悉：nodejs(express,koa2,Nestjs)具有一定的服务器开发能力，使用TypeORM和Prismsa操控数据库，了解MySQL、MongoDB、Redis
 
 *   熟悉：webpack|rollup | gulp |vite 打包工具使用和配置，以及webpack常用 loader 和 plugin 使用和简单的创建个人loader、plugin
 
 *   了解：基于React Native、uni-app和taro对于跨平台应用的开发
 
-*   了解：Nginx常用配置
+*   了解：Docker、Linux和MacOS操作系统下开发环境、Nginx常用配置
 
 ##  项目
 ### 个人博客网站
 `Nextjs13` `TailwindCSS` `giscus` `pliny` `pliny-cli` `mdx`   
 主要功能: 
-* 博客主要使用MDX进行编写 鉴于MDX能够书写jsx/tsx有更好的定制性 所以对比MD选用MDX
+* 博客主要使用MDX进行编写 鉴于MDX能够使用React组件结合Markdown书写jsx/tsx有更好的定制性 所以对比MD选用MDX
 
 * 使用TailwindCSS定制主题 并加入黑白主题
 
