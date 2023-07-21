@@ -12,7 +12,7 @@ github:https://github.com/AmbitionsXXXV
 
 ## 介绍
 
-啥都接触啥都还不精的应届毕业生  一个ONE OK ROCKer、Aimyon粉  总之现在目标就是整点能满足自己各个城市到处游荡  去追喜欢的他们的演唱会🥹
+啥都接触啥都还不精的一个ONE OK ROCKer、Aimyon粉  总之现在目标就是整点能满足自己各个城市到处游荡  去追喜欢的他们的演唱会🥹
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
