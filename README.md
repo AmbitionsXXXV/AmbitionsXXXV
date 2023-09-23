@@ -76,7 +76,8 @@ github:https://github.com/AmbitionsXXXV
       height="40"
     />
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40"
+      height="40" />        
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
@@ -189,7 +190,8 @@ github:https://github.com/AmbitionsXXXV
       height="40"
     />
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40"
+      height="40" />
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -230,7 +232,8 @@ github:https://github.com/AmbitionsXXXV
       height="40"
     />
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40"
+      height="40" />
 </p>
 
 
