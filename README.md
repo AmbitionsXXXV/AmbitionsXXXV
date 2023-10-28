@@ -10,6 +10,14 @@ github: https://github.com/AmbitionsXXXV
 
 个人博客网站：https://blog-v2-bice.vercel.app/
 
+## 爱好/特长
+
+*   100米二级运动员⚡
+
+*   Endlish、日本語⚡
+
+*   摇滚/乐队: ONR OK ROCK、あいみょん！！！　　おんがくはさいこう！！
+
 ## 介绍
 
 啥都接触啥都还不精的一个ONE OK ROCKer、Aimyon粉  总之现在目标就是整点能满足自己各个城市到处游荡  去追喜欢的他们的演唱会🥹
@@ -235,16 +243,6 @@ github: https://github.com/AmbitionsXXXV
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40"
       height="40" />
 </p>
-
-
-
-## 爱好/特长
-
-*   100米二级运动员⚡
-
-*   日语、英语四级⚡
-
-*   摇滚/乐队: ONR OK ROCK、あいみょん！！！　　おんがくはさいこう！！
 
 <!--
 **AmbitionsXXXV/AmbitionsXXXV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
