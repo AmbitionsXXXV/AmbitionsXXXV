@@ -14,7 +14,7 @@ github: https://github.com/AmbitionsXXXV
 
 *   100米二级运动员⚡
 
-*   Endlish、日本語⚡
+*   English、日本語⚡
 
 *   摇滚/乐队: ONR OK ROCK、あいみょん！！！　　おんがくはさいこう！！
 
