@@ -1,8 +1,6 @@
 # Front-end Coder(程序🐵)👋
 
-男/2001-7
-
-计算机/软件工程
+男/2001
 
 github: https://github.com/AmbitionsXXXV
 
