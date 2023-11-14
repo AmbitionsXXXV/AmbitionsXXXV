@@ -14,7 +14,7 @@ github: https://github.com/AmbitionsXXXV
 
 *   English、日本語⚡
 
-*   摇滚/乐队: ONR OK ROCK、あいみょん！！！　　おんがくはさいこう！！
+*   ロック・バンド・音楽: ONR OK ROCK、あいみょん！！！　　おんがくはさいこう！！
 
 ## 介绍
 
