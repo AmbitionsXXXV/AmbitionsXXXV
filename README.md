@@ -74,14 +74,6 @@ github: https://github.com/AmbitionsXXXV
       height="40"
     />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
@@ -101,7 +93,12 @@ github: https://github.com/AmbitionsXXXV
     />
   </a>
   <a href="https://electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"
+      alt="electron"
+      width="40"
+      height="40"
+      />
   </a> 
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img
