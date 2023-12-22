@@ -1,10 +1,10 @@
 # Front-end Coder(程序🐵)👋
 
-男/2001
+2001
 
 github: https://github.com/AmbitionsXXXV
 
-邮箱: 712298233\@qq.com、yilonglei790@gmail.com
+邮箱: etcetera3636@gmail.com
 
 个人博客网站：https://blog-v2-bice.vercel.app/
 
@@ -100,6 +100,9 @@ github: https://github.com/AmbitionsXXXV
       height="40"
     />
   </a>
+  <a href="https://electronjs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+  </a> 
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
