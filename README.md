@@ -10,8 +10,6 @@ github: https://github.com/AmbitionsXXXV
 
 ## 爱好/特长
 
-*   100米二级运动员⚡
-
 *   English、日本語⚡
 
 *   ロック・バンド・音楽: ONR OK ROCK、あいみょん！！！　　おんがくはさいこう！！
