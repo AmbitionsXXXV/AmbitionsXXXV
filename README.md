@@ -96,13 +96,6 @@ const programCoder = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbitionsXXXV&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🌐 在全球的足迹 | Footprints Around the World
-
-- 🇯🇵 日本东京 - 生活与工作中
-- 🇨🇳 中国上海 - 家乡
-- 🇺🇸 美国旧金山 - 技术交流
-- 🇬🇧 英国伦敦 - 旅行爱好者
-
 ## ⚡ 有趣的事实 | Fun Facts
 
 - 🎮 喜欢电子游戏，特别是开放世界和角色扮演类游戏
