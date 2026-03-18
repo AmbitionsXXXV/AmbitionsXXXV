@@ -20,7 +20,7 @@
 ```typescript
 const programCoder = {
   name: "Program Coder",
-  location: "中国 | China 🇨🇳",
+  location: "地球 | Earth 🌏",
   current: "全栈开发工程师 | Full Stack Developer",
   languages: ["TypeScript", "Rust", "Go", "Python", "JavaScript"],
   aspirations: ["构建优雅的用户体验", "创造高性能后端服务", "开源贡献"],
