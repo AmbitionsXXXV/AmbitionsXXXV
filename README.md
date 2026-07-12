@@ -57,7 +57,7 @@ const programCoder = {
 
 ## 🎵 音楽は最高！| Music is Life!
 
-- 🎸 ONE OK ROCK 大好き！特に「Wherever you are」と「Wasted Nights」が大好きです！
+- 🎸 ONE OK ROCK 大好き！特に「欲望に満ちた青年団」と「カゲロウ」が大好きです！
 - 🎤 あいみょんの歌声に魅了されています！「マリーゴールド」は永遠の名曲です！
 - 🌏 夢は東京、大阪でライブを楽しむこと
 
