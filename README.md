@@ -94,16 +94,16 @@ const programCoder = {
 ## 📚 最近的项目 | Recent Projects
 
 <div align="center">
-  <a href="https://github.com/AmbitionsXXXV/doc-editor">
+  <a href="https://github.com/AmbitionsXXXV/Etyon">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=AmbitionsXXXV&repo=doc-editor&hide_border=true&bg_color=00000000&title_color=7aa2cf&icon_color=d99a5b&text_color=c9c7bd">
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=AmbitionsXXXV&repo=doc-editor&hide_border=true&bg_color=00000000&title_color=1b365d&icon_color=8c5b2f&text_color=3d3d3a" alt="doc-editor" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=AmbitionsXXXV&repo=Etyon&hide_border=true&bg_color=00000000&title_color=7aa2cf&icon_color=d99a5b&text_color=c9c7bd">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=AmbitionsXXXV&repo=Etyon&hide_border=true&bg_color=00000000&title_color=1b365d&icon_color=8c5b2f&text_color=3d3d3a" alt="Etyon" />
     </picture>
   </a>
-  <a href="https://github.com/AmbitionsXXXV/etc-hooks">
+  <a href="https://github.com/AmbitionsXXXV/FolioNote">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=AmbitionsXXXV&repo=etc-hooks&hide_border=true&bg_color=00000000&title_color=7aa2cf&icon_color=d99a5b&text_color=c9c7bd">
-      <img src="https://github-stats-extended.vercel.app/api/pin/?username=AmbitionsXXXV&repo=etc-hooks&hide_border=true&bg_color=00000000&title_color=1b365d&icon_color=8c5b2f&text_color=3d3d3a" alt="etc-hooks" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=AmbitionsXXXV&repo=FolioNote&hide_border=true&bg_color=00000000&title_color=7aa2cf&icon_color=d99a5b&text_color=c9c7bd">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=AmbitionsXXXV&repo=FolioNote&hide_border=true&bg_color=00000000&title_color=1b365d&icon_color=8c5b2f&text_color=3d3d3a" alt="FolioNote" />
     </picture>
   </a>
 </div>
