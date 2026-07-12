@@ -1,18 +1,23 @@
-<!-- Profile Header -->
+<!-- ═══════════════ Header Banner（etyon.me 同款配色：藏青→钢蓝→琥珀） ═══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+a+Full+Stack+Developer;ONE+OK+ROCKer+%26+Aimyon+Fan!&center=true&size=27&color=fe428e">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b365d,50:2d5a8a,100:8c5b2f&height=200&section=header&text=Program%20Coder&fontSize=42&fontColor=f5f4ed&animation=fadeIn&fontAlignY=35&desc=%E4%BD%A0%E5%A5%BD%20%C2%B7%20%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%20%C2%B7%20Hello&descSize=16&descAlignY=55" width="100%" alt="header banner" />
 </div>
 
-# こんにちは！Program Coder(程序🐵)です 👋
+<!-- 三语打字机（深浅色自适应） -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=7AA2CF&center=true&vCenter=true&width=600&height=60&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Program%20Coder;Agentic%20Full%20Stack%20Developer;ONE%20OK%20ROCK%20%26%20%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93%20%E5%A4%A7%E5%A5%BD%E3%81%8D%EF%BC%81;Welcome%20to%20my%20GitHub%21">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=1B365D&center=true&vCenter=true&width=600&height=60&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Program%20Coder;Agentic%20Full%20Stack%20Developer;ONE%20OK%20ROCK%20%26%20%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93%20%E5%A4%A7%E5%A5%BD%E3%81%8D%EF%BC%81;Welcome%20to%20my%20GitHub%21" alt="typing intro" />
+  </picture>
+</div>
 
 <div align="center">
-  
-  [![Blog](https://img.shields.io/badge/Blog-FF4088?style=for-the-badge&logo=hugo&logoColor=white)](https://blog-v2-bice.vercel.app/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmbitionsXXXV)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:etcetera3636@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-spotify)
-  
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1b365d?style=for-the-badge&logo=vercel&logoColor=white)](https://etyon.me)
+  [![Blog](https://img.shields.io/badge/Blog-2d5a8a?style=for-the-badge&logo=rss&logoColor=white)](https://blog-v2-bice.vercel.app/)
+  [![GitHub](https://img.shields.io/badge/GitHub-141413?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmbitionsXXXV)
+  [![Email](https://img.shields.io/badge/Email-8c5b2f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:etcetera3636@gmail.com)
+
 </div>
 
 ## 🧑‍💻 关于我 | About Me
@@ -21,63 +26,68 @@
 const programCoder = {
   name: "Program Coder",
   location: "地球 | Earth 🌏",
-  current: "全栈开发工程师 | Full Stack Developer",
+  current: "Agentic 全栈工程师 | Agentic Full Stack Developer",
   languages: ["TypeScript", "Rust", "Go", "Python", "JavaScript"],
-  aspirations: ["构建优雅的用户体验", "创造高性能后端服务", "开源贡献"],
+  focus: ["AI Agents", "RAG", "Context Engineering", "开源贡献"],
   hobbies: ["听音乐", "看演唱会", "旅行", "编程", "动漫"],
-  dailyMode: (coffeeCount) => coffeeCount > 0 ? "编码中..." : "需要咖啡!"
+  dailyMode: (coffeeCount: number) =>
+    coffeeCount > 0 ? "编码中..." : "需要咖啡!",
 };
 ```
-
-## 🎵 音楽は最高！| Music is Life!
-
-- 🎸 ONE OK ROCK大好き！特に「Wherever you are」と「Wasted Nights」が大好きです！
-- 🎤 あいみょんの歌声に魅了されています！「マリーゴールド」は永遠の名曲です！
-- 🌏 夢は東京、大阪でライブを楽しむこと
 
 ## 📊 GitHub 活跃度 | GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmbitionsXXXV&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=AmbitionsXXXV&show_icons=true&hide_border=true&bg_color=00000000&title_color=7aa2cf&icon_color=d99a5b&text_color=c9c7bd&include_all_commits=true&rank_icon=github">
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=AmbitionsXXXV&show_icons=true&hide_border=true&bg_color=00000000&title_color=1b365d&icon_color=8c5b2f&text_color=3d3d3a&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AmbitionsXXXV&hide_border=true&background=00000000&ring=7aa2cf&fire=d99a5b&currStreakNum=7aa2cf&currStreakLabel=7aa2cf&sideNums=c9c7bd&sideLabels=8b8a82&dates=8b8a82&stroke=00000000">
+    <img height="170" src="https://streak-stats.demolab.com?user=AmbitionsXXXV&hide_border=true&background=00000000&ring=1b365d&fire=8c5b2f&currStreakNum=1b365d&currStreakLabel=1b365d&sideNums=3d3d3a&sideLabels=6b6a64&dates=6b6a64&stroke=00000000" alt="GitHub streak" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmbitionsXXXV&theme=radical&row=1" alt="trophy" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AmbitionsXXXV&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=7aa2cf&text_color=c9c7bd">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmbitionsXXXV&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1b365d&text_color=3d3d3a" alt="Top languages" />
+  </picture>
 </div>
+
+## 🎵 音楽は最高！| Music is Life!
+
+- 🎸 ONE OK ROCK 大好き！特に「Wherever you are」と「Wasted Nights」が大好きです！
+- 🎤 あいみょんの歌声に魅了されています！「マリーゴールド」は永遠の名曲です！
+- 🌏 夢は東京、大阪でライブを楽しむこと
+
+<!-- 想显示 Spotify「正在播放」？两分钟搞定：
+     1. 打开 https://spotify-github-profile.kittinanx.com 用 Spotify 登录
+     2. 复制页面给你的 uid，替换下面的 YOUR_UID，然后取消这段注释
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=default&show_offline=false&background_color=00000000&bar_color=2d5a8a" alt="Now playing on Spotify" />
+</div>
+     追番展示（MyAnimeList）需要配一个 lowlighter/metrics 的 GitHub Action，想加的话另说 -->
 
 ## 🛠️ 技术栈 | Tech Stack
 
 <div align="center">
 
 ### 前端 | Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,ts,svelte,tailwind,vite,electron" alt="frontend skills" />
 
 ### 后端 | Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,rust,py,graphql" alt="backend skills" />
 
 ### 数据库 | Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" alt="database skills" />
 
 ### 工具与其他 | Tools & Others
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+<img src="https://skillicons.dev/icons?i=docker,linux,git,aws,githubactions" alt="tools" />
 
 </div>
 
@@ -85,14 +95,17 @@ const programCoder = {
 
 <div align="center">
   <a href="https://github.com/AmbitionsXXXV/doc-editor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmbitionsXXXV&repo=doc-editor&theme=radical" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=AmbitionsXXXV&repo=doc-editor&hide_border=true&bg_color=00000000&title_color=7aa2cf&icon_color=d99a5b&text_color=c9c7bd">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=AmbitionsXXXV&repo=doc-editor&hide_border=true&bg_color=00000000&title_color=1b365d&icon_color=8c5b2f&text_color=3d3d3a" alt="doc-editor" />
+    </picture>
   </a>
-</div>
-
-## 💬 编程语言使用比例 | Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbitionsXXXV&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/AmbitionsXXXV/etc-hooks">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=AmbitionsXXXV&repo=etc-hooks&hide_border=true&bg_color=00000000&title_color=7aa2cf&icon_color=d99a5b&text_color=c9c7bd">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=AmbitionsXXXV&repo=etc-hooks&hide_border=true&bg_color=00000000&title_color=1b365d&icon_color=8c5b2f&text_color=3d3d3a" alt="etc-hooks" />
+    </picture>
+  </a>
 </div>
 
 ## ⚡ 有趣的事实 | Fun Facts
@@ -101,4 +114,7 @@ const programCoder = {
 - 📚 每月至少阅读一本技术书籍和一本小说
 - 🏃 保持健康的生活方式，每周跑步和锻炼
 
----
+<!-- ═══════════════ Footer Banner ═══════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8c5b2f,50:2d5a8a,100:1b365d&height=110&section=footer" width="100%" alt="footer banner" />
+</div>
