@@ -77,6 +77,10 @@ const programCoder = {
 
 <img src="https://skillicons.dev/icons?i=react,ts,svelte,tailwind,vite,electron" alt="frontend skills" />
 
+### 移动端 | Mobile
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,apple,swift" alt="mobile skills" />
+
 ### 后端 | Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,rust,py,graphql" alt="backend skills" />
